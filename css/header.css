@@ -13,3 +13,6 @@
   position: relative;
   width: 75px;
 }
+.header input {
+  border-radius: 15px;
+}

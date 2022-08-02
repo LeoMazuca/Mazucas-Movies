@@ -16,3 +16,7 @@
 .header input {
   border-radius: 15px;
 }
+.header button {
+  width: 35px;
+  height: 35px;
+}

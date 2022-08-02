@@ -1,7 +1,7 @@
 .header {
   width: 100%;
   background-color: blue;
-  height: 65px;
+  height: 100px;
   position: fixed;
   bottom: 0;
   z-index: 10;
@@ -11,8 +11,8 @@
 }
 .header img {
   position: relative;
-  width: 45px;
+  width: 75px;
 }
-.searchBar input {
+.header input {
   border-radius: 15px;
 }

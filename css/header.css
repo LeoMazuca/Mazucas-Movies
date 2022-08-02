@@ -1,0 +1,18 @@
+.header {
+  width: 100%;
+  background-color: blue;
+  height: 65px;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header img {
+  position: relative;
+  width: 45px;
+}
+.searchBar input {
+  border-radius: 15px;
+}

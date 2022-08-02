@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  background-color: blue;
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header img {
+  position: relative;
+  width: 75px;
+}
